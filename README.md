@@ -1,5 +1,5 @@
 # A Simple Company Web
-## Live demo : [https://moisesu05.github.io/]
+## Live demo : [https://moisesu05.github.io/react-sample-company-web/]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
